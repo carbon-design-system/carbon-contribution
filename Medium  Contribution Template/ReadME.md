@@ -7,7 +7,7 @@ Thank you for taking the time to contribute back to Carbon! In this folder you w
 
 ### 1. Icon creation
 
-Use the `Icon Contribution Template` sketch file in this folder to create the icon(s) you would like to contribute back. The sketch file has instructions covering Carbon icon style, file handling, exporting, and drawing tips. 
+Use the sketch file in the [Medium Contribution Template](https://github.com/carbon-design-system/carbon-contribution/tree/master/Medium%20%20Contribution%20Template) folder to create the icon(s) you would like to contribute back. The sketch file has instructions covering Carbon icon style, file handling, exporting, and drawing tips. 
 
 ### 2. Contributor opens an issue purposing the new icon.
 
