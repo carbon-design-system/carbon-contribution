@@ -27,7 +27,7 @@ There is also a sketch palette for Carbon specs in this folder. To use this pale
 
 #### 1. Open an issue proposing the new component
 
-Create an issue in the [carbon-components](https://github.com/carbon-design-system/carbon-components) repo. The following must be included in the issue in order to be reviewed by Carbon:
+Create an issue in this repo ([carbon-contribution](https://github.com/carbon-design-system/carbon-contribution)). The following must be included in the issue in order to be reviewed by Carbon:
 
 Issue title should be formatted as `Contribution: New component name`.
 
@@ -52,7 +52,7 @@ One designer and one developer from the Carbon team will be in this meeting. The
 
 #### 3. Creating website assets
 
-If the proposed component is being brought into the main library, the contributor will utilize the [Heavy Contribution Template]() to create all necessary images and documentation assets for the component's style and usage tabs. The instructions for the sketch template and markdown files can be found in the `ReadME.md` file in the template folder. It is strongly recommended that contributors review the Carbon [production guidelines](https://github.com/carbon-design-system/design-system-website/wiki/Production-guidelines) before creating style and usage images. 
+If the proposed component is being brought into the main library, the contributor will utilize the [Heavy Contribution Template](https://github.com/carbon-design-system/carbon-contribution/tree/master/Heavy%20Contributing%20Template) to create all necessary images and documentation assets for the component's style and usage tabs. The instructions for the sketch template and markdown files can be found in the `ReadME.md` file in the template folder. It is strongly recommended that contributors review the Carbon [production guidelines](https://github.com/carbon-design-system/design-system-website/wiki/Production-guidelines) before creating style and usage images. 
 
 #### 4. Submission and review
 
@@ -60,12 +60,7 @@ Once all template assets have been complete, zip the entire Heavy Contribution T
 
 #### 6. Create a PR
 
-Once Carbon has made the final approval, the contributor needs to submit their changes to our repos. The first PR needs to be made to the [carbon-components repo](https://github.com/carbon-design-system/carbon-components) to add the code for the new component. The second PR needs to be made to the [design-system-website repo](https://github.com/carbon-design-system/design-system-website) to add the new component section. The component folder should be added into `src > content > components`. Make sure the folder follows the  `component-name` naming structure and includes the following:
-
-- `images` folder with component asset images
-- style.md
-- usage.md
-- code.md
+Once Carbon has made the final approval, the contributor needs to submit their changes to our repos. The first PR needs to be made to the [carbon-components repo](https://github.com/carbon-design-system/carbon-components) to add the code for the new component. The second PR needs to be made to the [design-system-website repo](https://github.com/carbon-design-system/design-system-website) to add the new component section. The component folder should be added into `src > content > components`. Make sure the folder follows the `component-name` naming structure.
 
 Please make sure to include the initial issue number and link in both PR's. If you do not know how to make a PR, view our [instructions](https://github.com/carbon-design-system/design-system-website/wiki/Creating-a-PR).
 
